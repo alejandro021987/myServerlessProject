@@ -1,4 +1,4 @@
-# Coding Assessment
+# API Weather using Lambdas
 ## This is an example of api created using aws lambda functions
 
 ### Some considerations:
