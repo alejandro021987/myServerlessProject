@@ -1,5 +1,5 @@
 # Coding Assessment
-## This is an example of smart contract with solidity
+## This is an example of api created using aws lambda functions
 
 Some considerations:
 - The MetaWeather service is down, for this reason I used accuWeather https://developer.accuweather.com/
